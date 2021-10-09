@@ -1,0 +1,287 @@
+2021-10-08 15:26:34,517 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:26:34,519 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:26:34,521 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:26:34,636 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:26:34,637 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:26:34,641 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:26:34,646 - root - INFO - 0 records sent to server
+2021-10-08 15:26:39,659 - root - INFO - 0 records sent to server
+2021-10-08 15:26:44,680 - root - INFO - 0 records sent to server
+2021-10-08 15:26:49,687 - root - INFO - 0 records sent to server
+2021-10-08 15:26:54,690 - root - INFO - 0 records sent to server
+2021-10-08 15:26:59,426 - root - ERROR - Program is terminated by user
+2021-10-08 15:26:59,427 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:26:59,428 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:28:51,142 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:28:51,143 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:28:51,145 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:28:51,255 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:28:51,256 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:28:51,260 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:28:51,265 - root - INFO - 0 records sent to server
+2021-10-08 15:28:56,279 - root - INFO - 0 records sent to server
+2021-10-08 15:28:59,285 - root - ERROR - Program is terminated by user
+2021-10-08 15:28:59,286 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:28:59,287 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:29:54,892 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:29:54,893 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:29:54,895 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:29:55,000 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:29:55,001 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:29:55,005 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:29:55,011 - root - INFO - 0 records sent to server
+2021-10-08 15:30:00,025 - root - INFO - 0 records sent to server
+2021-10-08 15:30:02,525 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:02,526 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:02,527 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:30,018 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:30:30,020 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:30:30,021 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:30:30,127 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:30:30,128 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:30:30,131 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:30:30,136 - root - INFO - 0 records sent to server
+2021-10-08 15:30:31,285 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:31,286 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:31,287 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:31,289 - root - INFO - sssssssssssssss
+2021-10-08 15:30:31,290 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:30:44,085 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:30:44,086 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:30:44,088 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:30:44,204 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:30:44,205 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:30:44,209 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:30:44,213 - root - INFO - 0 records sent to server
+2021-10-08 15:30:45,548 - root - ERROR - Program is terminated by user
+2021-10-08 15:30:45,549 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:30:45,550 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:30:45,555 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:30:45,556 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:37:17,101 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:37:17,102 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:37:17,104 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:37:17,214 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:37:17,215 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:37:17,219 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:37:17,225 - root - INFO - 0 records sent to server
+2021-10-08 15:37:22,234 - root - INFO - 0 records sent to server
+2021-10-08 15:37:27,244 - root - INFO - 0 records sent to server
+2021-10-08 15:37:32,257 - root - INFO - 0 records sent to server
+2021-10-08 15:37:37,267 - root - INFO - 0 records sent to server
+2021-10-08 15:37:42,281 - root - INFO - 0 records sent to server
+2021-10-08 15:37:47,287 - root - INFO - 0 records sent to server
+2021-10-08 15:37:51,497 - root - ERROR - Program is terminated by user
+2021-10-08 15:37:51,497 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:37:51,498 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:37:51,501 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:37:51,504 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:38:31,061 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:38:31,062 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:38:31,063 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:38:31,177 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:38:31,178 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:38:31,181 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:38:31,186 - root - INFO - 0 records sent to server
+2021-10-08 15:38:36,198 - root - INFO - 0 records sent to server
+2021-10-08 15:38:41,219 - root - INFO - 0 records sent to server
+2021-10-08 15:38:43,831 - root - ERROR - Program is terminated by user
+2021-10-08 15:38:43,833 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:38:43,835 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:38:43,842 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:38:43,844 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:39:43,475 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:39:43,477 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:39:43,478 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:39:43,585 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:39:43,586 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:39:43,590 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:39:43,595 - root - INFO - 0 records sent to server
+2021-10-08 15:39:48,614 - root - INFO - 0 records sent to server
+2021-10-08 15:39:51,209 - root - ERROR - Program is terminated by user
+2021-10-08 15:39:51,210 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:39:51,212 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:39:51,215 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:39:51,220 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:40:48,291 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:40:48,293 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:40:48,294 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:40:48,411 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:40:48,412 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:40:48,416 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:40:48,420 - root - INFO - 0 records sent to server
+2021-10-08 15:40:53,442 - root - INFO - 0 records sent to server
+2021-10-08 15:40:58,447 - root - INFO - 0 records sent to server
+2021-10-08 15:41:03,463 - root - INFO - 0 records sent to server
+2021-10-08 15:41:08,479 - root - INFO - 0 records sent to server
+2021-10-08 15:41:09,563 - root - ERROR - Program is terminated by user
+2021-10-08 15:41:09,564 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:41:09,565 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:41:09,567 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:41:09,568 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:44:10,956 - root - ERROR - Error in Reading from Config File app-config.properties, program is terminated !!!
+2021-10-08 15:44:31,027 - root - INFO - Timer Task for Updating Last ID every 5 minutes is started
+2021-10-08 15:44:31,030 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-08 15:44:31,032 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-08 15:44:31,033 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-08 15:44:31,150 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-08 15:44:31,151 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-08 15:44:31,155 - root - INFO - WindTurbine Data Producer is now started
+2021-10-08 15:44:31,161 - root - INFO - 0 records sent to server
+2021-10-08 15:44:36,040 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-08 15:44:36,178 - root - INFO - 0 records sent to server
+2021-10-08 15:44:41,187 - root - INFO - 0 records sent to server
+2021-10-08 15:44:46,206 - root - INFO - 0 records sent to server
+2021-10-08 15:44:51,218 - root - INFO - 0 records sent to server
+2021-10-08 15:44:56,234 - root - INFO - 0 records sent to server
+2021-10-08 15:44:57,974 - root - ERROR - Program is terminated by user
+2021-10-08 15:44:57,974 - kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+2021-10-08 15:44:57,975 - kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+2021-10-08 15:44:57,977 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-08 15:44:57,978 - root - INFO - Writing Last ID 13221 to properties file
+2021-10-09 22:51:54,437 - root - INFO - WindTurbine Server is started
+2021-10-09 22:51:54,577 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 22:51:54,580 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 22:51:54,581 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 22:51:54,582 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 22:51:54,728 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 22:51:54,730 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 22:51:54,732 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 22:51:54,734 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 22:51:55,276 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 22:51:55,279 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 22:51:55,281 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 22:51:55,282 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 22:55:12,327 - root - INFO - WindTurbine Server is started
+2021-10-09 22:55:12,410 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 22:55:12,413 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 22:55:12,415 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 22:55:12,416 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 22:55:12,537 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 22:55:12,538 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 22:55:12,542 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 22:55:12,544 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 22:55:12,551 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 22:55:12,556 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 22:55:12,558 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 22:55:12,559 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:03:19,817 - root - INFO - WindTurbine Server is started
+2021-10-09 23:03:19,891 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:03:19,895 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:03:19,896 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:03:19,897 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:03:20,020 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:03:20,022 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:03:20,026 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:03:20,028 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:03:20,033 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:03:20,040 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:03:20,043 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:03:20,046 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:04:15,718 - root - INFO - WindTurbine Server is started
+2021-10-09 23:04:15,808 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:04:15,812 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:04:15,813 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:04:15,814 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:04:15,920 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:04:15,921 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:04:15,923 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:04:15,924 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:04:15,926 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:04:15,929 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:04:15,930 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:04:15,931 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:06:16,030 - root - INFO - WindTurbine Server is started
+2021-10-09 23:06:16,110 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:06:16,113 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:06:16,114 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:06:16,116 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:06:16,237 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:06:16,238 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:06:16,242 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:06:16,244 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:06:16,251 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:06:16,258 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:06:16,263 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:06:16,265 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:09:34,807 - root - INFO - WindTurbine Server is started
+2021-10-09 23:09:34,881 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:09:34,885 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:09:34,886 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:09:34,888 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:09:35,011 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:09:35,014 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:09:35,021 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:09:35,023 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:09:35,030 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:09:35,038 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:09:35,042 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:09:35,046 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:10:05,054 - root - INFO - WindTurbine Server is started
+2021-10-09 23:10:05,130 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:10:05,133 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:10:05,134 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:10:05,136 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:10:05,264 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:10:05,267 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:10:05,274 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:10:05,278 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:10:05,288 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:10:05,297 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:10:05,301 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:10:05,302 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:12:00,499 - root - INFO - WindTurbine Server is started
+2021-10-09 23:12:00,574 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:12:00,578 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:12:00,579 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:12:00,580 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:12:00,696 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:12:00,699 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:12:00,704 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:12:00,706 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:12:00,712 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:12:00,718 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:12:00,720 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:12:00,723 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:17:30,277 - root - INFO - WindTurbine Server is started
+2021-10-09 23:17:30,351 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:17:30,354 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:17:30,356 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:17:30,357 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:17:30,473 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:17:30,475 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:17:30,482 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:17:30,485 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:17:30,492 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:17:30,500 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:17:30,504 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:17:30,507 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:18:16,540 - root - ERROR - Program is terminated by user
+2021-10-09 23:19:52,442 - root - INFO - WindTurbine Server is started
+2021-10-09 23:19:52,517 - root - INFO - Listening on Topic firstTopicx in Kafka Server
+2021-10-09 23:19:52,520 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:19:52,521 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:19:52,523 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:19:52,650 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:19:52,652 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:19:52,658 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:19:52,661 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopicx',)
+2021-10-09 23:19:52,671 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopicx', partition=0)]
+2021-10-09 23:19:52,691 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:19:52,694 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:19:52,698 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-09 23:20:35,241 - root - ERROR - Program is terminated by user
+2021-10-09 23:21:18,418 - root - INFO - WindTurbine Server is started
+2021-10-09 23:21:18,498 - root - INFO - Listening on Topic firstTopic in Kafka Server
+2021-10-09 23:21:18,502 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2021-10-09 23:21:18,503 - kafka.conn - INFO - Probing node bootstrap-0 broker version
+2021-10-09 23:21:18,504 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2021-10-09 23:21:18,629 - kafka.conn - INFO - Broker version identified as 2.5.0
+2021-10-09 23:21:18,631 - kafka.conn - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2021-10-09 23:21:18,638 - kafka.coordinator.consumer - WARNING - group_id is None: disabling auto-commit.
+2021-10-09 23:21:18,640 - kafka.consumer.subscription_state - INFO - Updating subscribed topics to: ('firstTopic',)
+2021-10-09 23:21:18,645 - kafka.consumer.subscription_state - INFO - Updated partition assignment: [TopicPartition(topic='firstTopic', partition=0)]
+2021-10-09 23:21:18,654 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: connecting to DESKTOP-1I1RL2C:9092 [('fe80::5043:6023:8cca:b822', 9092, 0, 43) IPv6]
+2021-10-09 23:21:18,658 - kafka.conn - INFO - <BrokerConnection node_id=0 host=DESKTOP-1I1RL2C:9092 <connecting> [IPv6 ('fe80::5043:6023:8cca:b822', 9092, 0, 43)]>: Connection complete.
+2021-10-09 23:21:18,661 - kafka.conn - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2021-10-10 00:44:13,945 - root - ERROR - Program is terminated by user
