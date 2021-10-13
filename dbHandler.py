@@ -31,7 +31,7 @@ class DatabaseHandler:
     def insert(self,tData):
         self.mycursor = self.probirdConnection.cursor()
 
-        sql = """INSERT INTO Wind_Turbine_Data2(Time_Stamp,Wind_Turbine_ID,Wind_Speed,RPM,Temperature,Rain,
+        sql = """INSERT INTO Wind_Turbine_Data(Time_Stamp,Wind_Turbine_ID,Wind_Speed,RPM,Temperature,Rain,
                         Visibility,Status,Expected_Status,Sub_Status) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"""
         val = (tData['Time_Stamp'],tData['Wind_Turbine_ID'],tData['Wind_Speed'],tData['RPM'],tData['Temperature'],
                     tData['Rain'],tData['Visibility'],tData['Status'],tData['Expected_Status'],tData['Expected_Status'])
