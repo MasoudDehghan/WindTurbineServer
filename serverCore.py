@@ -67,7 +67,7 @@ class ServerThread:
                         print('IGNORE ID',tData['ID'],' FROM Turbine ',tData['Wind_Turbine_ID'])
                 
                 else:
-                    print('XXXINSERT ID',tData['ID'],' FROM Turbine ',tData['Wind_Turbine_ID'])
+                    #print('XXXINSERT ID',tData['ID'],' FROM Turbine ',tData['Wind_Turbine_ID'])
                     self.prodbHandler.insert(tData)
                     windbirdDataMap[tData['Wind_Turbine_ID']] = tData['ID']
         except Exception as e:
